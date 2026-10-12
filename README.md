@@ -22,5 +22,4 @@ dotnet run
 - Khóa ngoại: `Event.ClubId`, `Registration.EventId`, `Registration.MemberId`, `CheckIn.RegistrationId`.
 
 ## Kết quả chạy `dotnet run`
-![Kết quả phần 1](docs/run-result-1.png)
-![Kết quả phần 2](docs/run-result-2.png)
+![Kết quả phần 1](docs/demo.png)
